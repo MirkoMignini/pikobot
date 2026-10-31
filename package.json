@@ -36,7 +36,7 @@
     "dev:verify": "bash scripts/dev.sh verify"
   },
   "dependencies": {
-    "@earendil-works/pi-agent-core": "1.3.0",
+    "@earendil-works/pi-agent-core": "1.4.0",
     "@earendil-works/pi-ai": "1.3.0",
     "@earendil-works/pi-tui": "1.3.0",
     "@firecrawl/anydoc": "0.2.4",
